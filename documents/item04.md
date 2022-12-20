@@ -60,7 +60,7 @@ private Arrays() {}
 ```
 - 배열과 관련된 정적 메서드를 담고 있다
 -------
-* ### java.utils.Collections 처럼 특정 인터페이스의 구현체들에 대하여,그것들을 생성해주는 정적 팩토리 메서드들을 모아놓을 때
+* ### java.utils.Collections 
 ```java 
 java.lang.Collections
 public static <K,V> Map<K,V> synchronizedMap(Map<K,V> m){
